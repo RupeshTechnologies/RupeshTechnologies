@@ -1,7 +1,8 @@
 
 <a href="https://www.rupeshtechnologies.com">
 <img src="https://github.com/user-attachments/assets/XXXX-XXXX..." alt="Rupesh Tech Banner" width="100%"/>
-</a>
+</a><img width="1600" height="500" alt="rupeshtech_github_banner" src="https://github.com/user-attachments/assets/377b3b0d-fb34-49de-ab22-7c31bb1e5bc2" />
+
 <h1 align="center">👋 Hi, I'm Rupesh Kumar</h1>
 <h3 align="center">Founder — Rupesh Technologies | Web Dev · CRM · Digital Marketing</h3>
 
