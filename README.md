@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="rupeshtech_github_banner.png" alt="Rupesh Tech Banner" width="100%"/>
+</p>
 <h1 align="center">👋 Hi, I'm Rupesh Kumar</h1>
-<h3 align="center">Founder — Rupesh Technologies | Web Dev · CRM · Digital Marketing</h3>
+<h3 align="center">Founder — Rupesh Technologies | Web Dev · CRM · Digital Mark<img width="1600" height="500" alt="rupeshtech_github_banner" src="https://github.com/user-attachments/assets/9a64e972-496b-4e6c-891b-49d4eff7910c" />
+eting</h3>
 
 <p align="center">
   <a href="https://www.rupeshtechnologies.com">
