@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="rupeshtech_github_banner.png" alt="Rupesh Tech Banner" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/9a64e972-496b-4e6c-891b-49d4eff7910c" alt="Rupesh Tech Banner" width="100%"/>
 </p>
+
 <h1 align="center">👋 Hi, I'm Rupesh Kumar</h1>
-<h3 align="center">Founder — Rupesh Technologies | Web Dev · CRM · Digital Mark<img width="1600" height="500" alt="rupeshtech_github_banner" src="https://github.com/user-attachments/assets/9a64e972-496b-4e6c-891b-49d4eff7910c" />
-eting</h3>
+<h3 align="center">Founder — Rupesh Technologies | Web Dev · CRM · Digital Marketing</h3>
 
 <p align="center">
   <a href="https://www.rupeshtechnologies.com">
@@ -20,7 +20,9 @@ eting</h3>
 ---
 
 ### 🚀 About Rupesh Technologies
-17+ saal ke experience ke saath hum deliver karte hain:
+
+5+ years of experience delivering:
+
 - 🌐 **Web Design & Development** — Custom, fast, mobile-ready websites
 - 📊 **CRM & HRA Software** — Bihar, Jharkhand, Bengal ke liye tailored solutions
 - 📈 **SEO, Google Ads, SMO** — Real results, real growth
@@ -28,7 +30,31 @@ eting</h3>
 
 ---
 
+### 🔗 Our Services
+
+| Service | Link |
+|---|---|
+| 🌐 All Services | [View Services](https://www.rupeshtechnologies.com/Services.php) |
+| 💼 Portfolio | [View Portfolio](https://www.rupeshtechnologies.com/Portfolio.php) |
+| 🏢 About Us | [About Us](https://www.rupeshtechnologies.com/About.php) |
+| 📞 Contact | [Contact Us](https://www.rupeshtechnologies.com/Contact.php) |
+
+---
+
+### 📍 Web Development Locations
+
+<p>
+  <a href="https://www.rupeshtechnologies.com/web-development-sahibganj.php"><img src="https://img.shields.io/badge/Sahibganj-Web%20Dev-1a237e?style=flat-square"/></a>
+  <a href="https://www.rupeshtechnologies.com/web-development-jharkhand.php"><img src="https://img.shields.io/badge/Jharkhand-Web%20Dev-1a237e?style=flat-square"/></a>
+  <a href="https://www.rupeshtechnologies.com/web-development-bhagalpur.php"><img src="https://img.shields.io/badge/Bhagalpur-Web%20Dev-1a237e?style=flat-square"/></a>
+  <a href="https://www.rupeshtechnologies.com/web-development-deoghar.php"><img src="https://img.shields.io/badge/Deoghar-Web%20Dev-1a237e?style=flat-square"/></a>
+  <a href="https://www.rupeshtechnologies.com/web-development-dhanbad.php"><img src="https://img.shields.io/badge/Dhanbad-Web%20Dev-1a237e?style=flat-square"/></a>
+</p>
+
+---
+
 ### 🛠 Tech Stack
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -38,6 +64,7 @@ eting</h3>
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RupeshTechnologies&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RupeshTechnologies&theme=tokyonight&hide_border=true" height="150"/>
@@ -46,4 +73,5 @@ eting</h3>
 ---
 
 ### 📬 Contact
+
 📞 +91 9939878821 &nbsp;|&nbsp; 🌐 [rupeshtechnologies.com](https://www.rupeshtechnologies.com)
