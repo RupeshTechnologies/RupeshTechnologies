@@ -5,7 +5,7 @@
   <a href="https://www.rupeshtechnologies.com">
     <img src="https://img.shields.io/badge/Website-rupeshtechnologies.com-1565c0?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="mailto:info@rupeshtechnologies.com">
+  <a href="mailto:admin@rupeshtechnologies.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Us-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.rupeshtechnologies.com/Blog.php?page=1">
@@ -42,4 +42,4 @@
 ---
 
 ### 📬 Contact
-📞 +91 9884831072 &nbsp;|&nbsp; 🌐 [rupeshtechnologies.com](https://www.rupeshtechnologies.com)
+📞 +91 9939878821 &nbsp;|&nbsp; 🌐 [rupeshtechnologies.com](https://www.rupeshtechnologies.com)
